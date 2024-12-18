@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on LiDAR segmentation
+- 🌱 I’m currently learning more about ML
 <!--
 **Kishok-S-123/Kishok-S-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
