@@ -1,5 +1,7 @@
 ## Who am I?
-- Interested in ML and Computer Vision
+- Computer engineering undergrad student
+- Experience across wide range of related topics like ML, Computer Vision, Control Engineering, Robotics, etc
+- Eager to contribute to the advancement of autonomous robotics as soon as possible
 <!--
 **Kishok-S-123/Kishok-S-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
