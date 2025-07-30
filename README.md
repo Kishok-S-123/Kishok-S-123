@@ -1,12 +1,12 @@
 ## Who am I?
-- Computer engineering undergrad student
+- Computer Engineering (MEng) Student
 - Experience across wide range of topics such as:
   - Robotics
   - Computer Vision
   - Machine Learning and Deep Learning
   - Control Engineering
   - Optimisation
-- Eager to contribute to the advancement of autonomous navigation as soon as robotically possible
+- Working to contribute to the advancement of perceptual intelligence, especially with respect to autonomous navigation
 <!--
 **Kishok-S-123/Kishok-S-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
